@@ -9,5 +9,5 @@ venv/
 build/
 dist/
 *.egg-info
-
 __pycache__
+*.iml
