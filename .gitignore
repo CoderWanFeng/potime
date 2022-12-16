@@ -11,3 +11,5 @@ dist/
 *.egg-info
 __pycache__
 *.iml
+script/
+
